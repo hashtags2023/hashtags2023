@@ -18,11 +18,8 @@ Here are some ideas to get you started:
 # Hi there, I'm Lori! 👋
 
 👨🏻‍💻 Software Engineer | 💻 Digital Forensics Enthusiast  
-📍 Sacramento, CA USA  
-📧 [Your Email]  
-🌐 [Your Portfolio or Blog]  
-📸 [@yourInstagram] | 💬 [@yourTwitter] | 🎥 [YouTube Channel]  
-🎓 [Your Degree Info, University]
+📍 Sacramento, CA USA    
+🎓 BS in Computer Science
 
 ---
 
