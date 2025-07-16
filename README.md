@@ -31,9 +31,9 @@ A passionate Software Engineer and Cybersecurity enthusiast with a strong intere
 
 ### 🧠 Personal Interests
 
-- 👨🏽‍💻 I’m currently working on Digital Forensics tools & web security automation
+- 👨🏽‍💻 I’m currently working on AI Software Developement, Cybersecurity & web security automation
 - 💼 I’ve completed my Bachelor's in Computer Science at California University, Sacramento
-- 🤔 Interests: Cybersecurity 🔐, Space 🚀, AI 🤖, and Cricket 🏏
+- 🤔 Interests: Software Development, Cybersecurity 🔐, Space 🚀, AI 🤖, and Cricket 🏏
 - 🎬 MCU fan and movie enthusiast
 - 💬 Ask me about anything tech – happy to help!
 
@@ -56,20 +56,20 @@ A passionate Software Engineer and Cybersecurity enthusiast with a strong intere
 
 ### 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![hashtags2023's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashtags2023&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashtags2023&layout=compact&theme=radical)
 
 ---
 
 ### 📌 Pinned Projects
 
-[🔹 Project Title](https://github.com/yourusername/yourproject)  
-_A short description of your project, like a forensics tool, web app, or lab._  
-Tech used: Python, Flask, SQLite
+[🔹 ForensicToolkit](https://github.com/hashtags2023/ForensicToolkit)  
+_A CLI tool for memory analysis and evidence collection._  
+Tech used: Python, Volatility
 
-[🔹 Project Title](https://github.com/yourusername/yourproject2)  
-_A digital forensics automation script or incident response toolkit._  
-Tech used: Bash, Python, Volatility
+[🔹 WebSecMonitor](https://github.com/hashtags2023/WebSecMonitor)  
+_A basic web vulnerability scanner and monitoring tool._  
+Tech used: Node.js, Express, MongoDB
 
 ---
 
