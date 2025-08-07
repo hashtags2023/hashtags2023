@@ -17,25 +17,30 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Lori! 👋
 
-👨🏻‍💻 Software Engineer | 💻 Digital Forensics Enthusiast  
-📍 Sacramento, CA USA    
-🎓 BS in Computer Science
+👨🏻‍💻 Software Developer / Engineer | 💻 AI & Cybersecurity Enthusiast  
+📍 Sacramento, CA, USA  
+🎓 B.S. in Computer Science  
 
 ---
 
 ### 🚀 About Me
 
-A passionate Software Engineer and Cybersecurity enthusiast with a strong interest in Digital Forensics, Secure Software Development, and System Internals.
+I'm a passionate Software Engineer and Cybersecurity enthusiast with a strong interest in:
+
+- AI & Machine Learning  
+- Digital Forensics  
+- Secure Software Development  
+- System Internals  
 
 ---
 
 ### 🧠 Personal Interests
 
-- 👨🏽‍💻 I’m currently working on AI Software Developement, Cybersecurity & web security automation
-- 💼 I’ve completed my Bachelor's in Computer Science at California University, Sacramento
-- 🤔 Interests: Software Development, Cybersecurity 🔐, Space 🚀, AI 🤖, and Cricket 🏏
-- 🎬 MCU fan and movie enthusiast
-- 💬 Ask me about anything tech – happy to help!
+- 👨🏽‍💻 Currently working on AI-based software development, cybersecurity, and web security automation  
+- 🎓 Graduated with a B.S. in Computer Science from California State University, Sacramento  
+- 🤔 Interests include: Software Development, Cybersecurity 🔐, Space 🚀, AI 🤖, and Cricket 🏏  
+- 🎬 Huge MCU fan and movie enthusiast  
+- 💬 Ask me anything tech-related – happy to help!
 
 ---
 
@@ -63,13 +68,13 @@ A passionate Software Engineer and Cybersecurity enthusiast with a strong intere
 
 ### 📌 Pinned Projects
 
-[🔹 ForensicToolkit](https://github.com/hashtags2023/ForensicToolkit)  
-_A CLI tool for memory analysis and evidence collection._  
-Tech used: Python, Volatility
+#### [🔹 ForensicToolkit](https://github.com/hashtags2023/ForensicToolkit)  
+A CLI tool for memory analysis and evidence collection.  
+**Tech used:** Python, Volatility
 
-[🔹 WebSecMonitor](https://github.com/hashtags2023/WebSecMonitor)  
-_A basic web vulnerability scanner and monitoring tool._  
-Tech used: Node.js, Express, MongoDB
+#### [🔹 WebSecMonitor](https://github.com/hashtags2023/WebSecMonitor)  
+A basic web vulnerability scanner and monitoring tool.  
+**Tech used:** Node.js, Express, MongoDB
 
 ---
 
@@ -78,7 +83,7 @@ Tech used: Node.js, Express, MongoDB
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)  
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)  
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
 ---
