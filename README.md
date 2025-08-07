@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 I'm a passionate Software Engineer and Cybersecurity enthusiast with a strong interest in:
 
-- AI & Machine Learning  
+- AI & Machine Learning
+- Cybersecurity
 - Digital Forensics  
 - Secure Software Development  
 - System Internals  
@@ -81,9 +82,7 @@ A basic web vulnerability scanner and monitoring tool.
 ### 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)  
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/yourchannel)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hashologist8/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hashologist1@gmail.com)
 
 ---
