@@ -38,7 +38,7 @@ I'm a passionate Software Engineer and Cybersecurity enthusiast with a strong in
 - 👨🏽‍💻 Currently working on AI-based software development, cybersecurity, and web security automation  
 - 🎓 Graduated with a B.S. in Computer Science from California State University, Sacramento  
 - 🤔 Interests include: Software Development, Cybersecurity 🔐, Space 🚀, AI 🤖, and Cricket 🏏  
-- 🎬 Huge MCU fan and movie enthusiast  
+- Big Paddleboarding fan!! 
 - 💬 Ask me anything tech-related – happy to help!
 
 ---
