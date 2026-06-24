@@ -37,14 +37,13 @@ I like building tools that solve real problems. Right now that's mostly security
 
 ---
 
-### GitHub Stats
+### Top Languages
 
-![Lori's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashtags2023&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashtags2023&layout=compact&theme=radical)
 
 ---
 
 ### Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lori2024)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lori-cs-security)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hashologist1@gmail.com)
