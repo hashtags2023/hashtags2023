@@ -1,86 +1,50 @@
-<!--
-**hashtags2023/hashtags2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Lori 👋
 
-Here are some ideas to get you started:
+I'm a cybersecurity and software engineer based in Sacramento, CA. I spent 12 years in regulatory compliance at medical device companies before pivoting into tech — which means I actually understand why security and documentation matter, not just how to do them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like building tools that solve real problems. Right now that's mostly security automation and blue team stuff.
 
-# Hi there, I'm Lori! 👋
-
-👨🏻‍💻 Software Developer / Engineer | 💻 AI & Cybersecurity Enthusiast  
-📍 Sacramento, CA, USA  
-🎓 B.S. in Computer Science  
+🏄 When I'm not at a keyboard, I'm on a paddleboard.
 
 ---
 
-### 🚀 About Me
+### What I'm working on
 
-I'm a passionate Software Engineer and Cybersecurity enthusiast with a strong interest in:
-
-- AI & Machine Learning
-- Cybersecurity
-- Digital Forensics  
-- Secure Software Development  
-- System Internals  
+- **[WebSecMonitor](https://github.com/hashtags2023/WebSecMonitor)** — a Python vulnerability scanner I built to detect SQLi, XSS, open redirects, and misconfigurations. Generates OWASP-aligned reports with severity rankings.
+- **[LogSentinel](https://github.com/hashtags2023/logsentinel)** — a log analyzer that parses Linux auth, Apache, Nginx, and Windows Event logs to surface brute force attempts, privilege escalation, web attacks, and more.
+- Expanding my SOC home lab and working through CTF challenges on TryHackMe
 
 ---
 
-### 🧠 Personal Interests
+### Tools I work with
 
-- 👨🏽‍💻 Currently working on AI-based software development, cybersecurity, and web security automation  
-- 🎓 Graduated with a B.S. in Computer Science from California State University, Sacramento  
-- 🤔 Interests include: Software Development, Cybersecurity 🔐, Space 🚀, AI 🤖, and Cricket 🏏  
-- Big Paddleboarding fan!! 
-- 💬 Ask me anything tech-related – happy to help!
-
----
-
-### 🛠️ Languages and Tools
-
+**Security**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat&logo=splunk&logoColor=white)
+![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?style=flat&logo=vmware&logoColor=white)
+
+**Development**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat&logo=mysql&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Wireshark](https://img.shields.io/badge/-Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
-![hashtags2023's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashtags2023&show_icons=true&theme=radical)  
+![Lori's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hashtags2023&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hashtags2023&layout=compact&theme=radical)
 
 ---
 
-### 📌 Pinned Projects
+### Get in touch
 
-#### [🔹 ForensicToolkit](https://github.com/hashtags2023/ForensicToolkit)  
-A CLI tool for memory analysis and evidence collection.  
-**Tech used:** Python, Volatility
-
-#### [🔹 WebSecMonitor](https://github.com/hashtags2023/WebSecMonitor)  
-A basic web vulnerability scanner and monitoring tool.  
-**Tech used:** Node.js, Express, MongoDB
-
----
-
-### 📫 Contact Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/hashologist8/)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lori2024)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:hashologist1@gmail.com)
-
----
